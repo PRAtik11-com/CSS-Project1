@@ -1,0 +1,3694 @@
+@media(min-width:480px)
+{  
+   *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    }
+   header
+   {
+    height: 1400px;
+    width: 100%;
+    background-color: #37517e;
+   } 
+   .container
+   {
+    height: 1400px;
+    width: 100%;
+    margin: auto;
+    display: flexbox;
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .navbar
+   {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+   .main 
+   {
+       height: 80px;
+       display: flexbox;
+       flex-direction: column;
+   }
+   .submain
+   {
+        margin-left: -500px;
+        margin-top: 60px;
+        margin-bottom: -40px;
+   }
+   .submain2
+   {
+        margin-left: -500px;
+        margin-top: 60px;
+        margin-bottom: -60px;
+        margin-bottom: -40px;
+   }
+   .submain1
+   {
+        margin-left: -520px;
+        margin-top: 60px;
+   }
+   .logo
+   {
+        margin-left: 160px;
+   }
+   .sab
+   {
+       height: 600px;
+       width: 100%;
+       padding-top: 100px;
+       display: flexbox;
+       flex-direction: column;
+       flex-wrap: wrap-reverse;
+   }
+   .img
+   {
+       height:375px;
+       width: 100%;
+       margin-top: 300px;
+       margin-left: 100px;
+   }
+   img
+   {   
+       height:375px;
+       margin-left: 100%; 
+   }
+   .bottle
+   {
+       height: 400px;
+       width: 100%;
+       margin-top: 300px;
+       display: inline-flexbox;
+       flex-wrap: wrap;
+       flex-direction: column;
+   }
+   .content 
+   {  
+       width: 100%;
+       margin-top: 620px;
+       margin-left: 0px;
+       display: inline;
+   }
+   .content h1
+   {
+       font-size: 45px;   
+   }
+   .content p
+   {   
+       margin-top: 10px;
+       font-size: 25px;
+       line-height: 1.2;
+   }
+   .button 
+   {  
+       width: 50%;
+       position: absolute;
+       top: 90%;
+       left: 9%;
+   }
+   .button #big1
+   {
+    height: 45px;
+    width: 150px; 
+    padding: 12px 4px 5px 15px; 
+   }
+   #big1
+   {
+    padding: 10px 20px; 
+   }
+   #big1 a
+   {
+       font-size: 16px;
+   }
+   .button #big2
+   {
+    height: 45px;
+    width: 150px; 
+    padding: 12px 4px 5px 15px; 
+    margin-top: -15px;
+   }
+   #big2
+   {
+    padding: 10px 20px; 
+   }
+   #symbol
+   {
+    height: 150px;
+    width: 100%;
+   }
+   .symbol1
+   {
+    height: 150px;
+    width: 83%;
+    margin: auto;
+   }
+   .symbol2
+   {
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-inline-start: 0px;
+   }
+   .gym1
+   {
+    width: 50%;
+   }
+   .gym1 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym2
+   {
+    width: 50%;
+   }
+   .gym2 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym3
+   {
+    width: 50%;
+   }
+   .gym3 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym4
+   {
+    width: 50%;
+   }
+   .gym4 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym5
+   {
+    width: 50%;
+   }
+   .gym5 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym6
+   {
+    width: 50%;
+   }
+   .gym6 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .aboutus h1::after
+   {
+    margin-left: -20px;
+   }
+   .aboutus h1::before
+   {
+    margin-left: -60px;
+   }
+   #about1
+   {
+    height: 850px;
+   }
+   .us
+   {
+    height: 850px;
+   }
+   .flex
+   {
+    height:500px ;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .col2
+   {
+    width: 100%;
+   }
+   .col1
+   {
+    width: 100%;
+   }
+   .part
+   {
+    height: 1200px;
+    width: 100%;
+   }
+   .part1
+   {
+    height: 1200px;
+    width: 83%;
+   }
+   .flex1
+   {
+    height: 900px;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .ques
+   {
+    width: 100%;
+   }
+   .image4
+   {
+    width: 100%;
+    margin-left: -430px;
+   }
+   .image4 img
+   {
+    width: 100%;
+   }
+   .details li a
+   {
+    margin-right: -80px;
+   }
+   .details1 li a
+   {
+    margin-right: -210px;
+   }
+   .details2 li a
+   {
+    margin-right:-210px;
+   }
+   .skills
+   {
+    height: 1200px;
+    width: 100%;
+   }
+   .skillscon
+   {
+    height: 1200px;
+    width: 83%;
+   }
+   .flex5
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .images5
+   {
+    width: 100%;
+    margin-left: -400px;
+   }
+   .para
+   {
+    width: 100%;
+   }
+   #service
+   {
+    height: 1800px;
+   }
+   .square
+   {
+    height: 1800px;
+   }
+   .all
+   {
+    width: 100%;
+   }
+   .all h2::after
+   {
+    margin-left: -20px;
+   }
+   .all h2::before
+   {
+    margin-left: -60px;
+   }
+   .flex6
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .card1
+   {
+    width: 100%;
+    margin-top: 100px;
+   }
+   .card2
+   {
+    width: 100%;
+    margin-top: 60px;
+   }
+   .card3
+   {
+    width: 100%;
+    margin-top: 60px;
+   }
+   .card4
+   {
+    width: 100%;
+    margin-top: 60px;
+   }
+   .scroll
+   {
+    height: auto;
+   }
+   .scroll1
+   {
+    height: auto;
+   }
+   .info
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .sub1
+   {
+    width: 100%;
+    text-align: center;
+   }
+   .sub2
+   {
+    width: 100%;
+    margin-left: -60px;
+   }
+   .portfolio
+   {
+    height: auto;
+   }
+   .portfolio1
+   {
+    height: auto;
+   }
+   .portfolio2
+   {
+    width: 100%;
+   }
+   .portfolio2 h2::after
+   {
+    margin-left: -20px;
+   }
+   .portfolio2 h2::before
+   {
+    margin-left: -60px;
+   }
+   .collection
+   {
+    height: auto;
+   }
+   .sand
+   {
+    display: flex;
+    flex-direction: row;
+    width: 420px;
+    margin: auto;
+    margin-top: 40px;
+   }
+   .row1
+   {
+    
+    width: 100%;
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   
+   }
+   .pic1
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 80px;
+   }
+   .pic1 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .pic2
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .pic2 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .pic3
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .pic3 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .row2
+   {
+    width: 100%;
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   
+   }
+   .pic4
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 20px;
+   }
+   .pic4 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .pic5
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .pic5 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .pic6
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .pic6 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .row3
+   {
+    width: 100%;
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   
+   }
+   .pic7
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+   }
+   .pic7 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .pic8
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .pic8 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   .pic9
+   {
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .pic9 img
+   {
+    width: 140%;
+    margin-left: -100px;
+   }
+   #team
+   {
+    height: 1550px;
+    margin-top: 2423px;
+   }
+   .chex
+   {
+    height: 1550px;
+   }
+   .group
+   {
+    width: 100%;
+   }
+   .group h2::after
+   {
+    margin-left: -20px;
+   }
+   .group h2::before
+   {
+    margin-left: -60px;
+   }
+   .flex8
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .row1p1
+   {
+    width: 100%;
+    margin-top: 135px;
+   }
+   .imgp1
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp1 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+   }
+   .data
+   {
+    margin-left: 90px;
+    width: 80%;
+   }
+   .row2p2
+   {
+    width: 100%;
+    margin-top: 40px;
+   }
+   .imgp2
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp2 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+   }
+   .data1
+   {
+    margin-left: 90px;
+    width: 80%;
+   }
+   .flex9
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .row3p3
+   {
+    width: 100%;
+    margin-top: 40px;
+   }
+   .imgp3
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp3 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+   }
+   .data2
+   {
+    margin-left: 90px;
+    width: 80%;
+   }
+   .row4p4
+   {
+    width: 100%;
+    margin-top: 40px;
+   }
+   .imgp4
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp4 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+   }
+   .data3
+   {
+    margin-left: 90px;
+    width: 80%;
+   }
+   #pricing
+   {
+    height: 2000px;
+   }
+   .pricecon
+   {
+    height: 2000px;
+   }
+   .tag
+   {
+    width: 100%;
+   }
+   .tag h2::after
+   {
+    margin-left: -20px;
+   }
+   .tag h2::before
+   {
+    margin-left: -50px;
+   }
+   .flex10
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .card9
+   {
+    width: 100%;
+    margin-top: 100px;
+   }
+   .card10
+   {
+    width: 100%;
+    margin-top: 50px;
+   }
+   .card11
+   {
+    width: 100%;
+    margin-top: 50px;
+   }
+   #asked
+   {
+    height: 1000px;
+    width: 100%;
+   }
+   .que
+   {
+    height: 1000px;
+    width: 83%;
+   }
+   .frequently
+   {
+    width: 100%;
+   }
+   .frequently h2::after
+   {
+    margin-left: -20px;
+    margin-top: 35px;
+   }
+   .frequently h2::before
+   {
+    margin-top: 35px;
+    margin-left: -60px;
+   }
+   .questiones
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .sauce1
+   {
+    height: 100px;
+    width: 100%;
+    margin-top: 150px;
+   }
+   .sauce2
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .sauce3
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .sauce4
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .sauce5
+   {
+    height: 100px;
+    width: 100%;
+   }
+   #contact
+   {
+    height: 1650px;
+   }
+   .corn
+   {
+    height: 1650px;
+   }
+   .slide
+   {
+    width: 100%;
+   }
+   .slide h3::after
+   {
+    margin-left: -20px;
+   }
+   .slide h3::before
+   {
+    margin-left: -60px;
+   }
+   .flex13
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .dart1
+   {
+    width: 100%;
+    margin-top: 100px;
+   }
+   .charge1
+   {
+    width: 100%;
+   }
+   .dart2
+   {
+    width: 100%;
+    margin-top: 30px;
+   }
+   .charge2
+   {
+    width: 100%;
+   }
+   .button9
+   {
+    margin-left: -200px;
+   }
+   .join
+   {
+    height: 280px;
+   }
+   .our
+   {
+    height: 280px;
+   }
+   .newsletter
+   {
+    height: auto;
+    width: 100%;
+   }
+   .newsletter h3
+   {
+    padding-top: 30px;
+   }
+   #news
+   {
+    margin-left: 0px;
+    height: 50px;
+    width: 75%;
+    padding: 16px;
+   }
+   .button10
+   {
+    margin-left: -425px;
+   }
+   .footer1
+   {
+    height: 1070px;
+   }
+   .carter
+   {
+    height: 1070px;
+   }
+   .flex14
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .divided1
+   {
+    width: 100%;
+   }
+   .divided2
+   {
+    width: 100%;
+   }
+   .divided3
+   {
+    width: 100%;
+   }
+   .divided4
+   {
+    width: 100%;
+   }
+   footer
+   {
+    height: 100px;
+   }
+   .carter1
+   {
+    height: 100px;
+   }
+   .flex15
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+    padding-top: 30px;
+   }
+}
+@media(min-width:760px)
+{
+    header
+   {
+    height: 1350px;
+    width: 100%;
+    background-color: #37517e;
+   } 
+   .container
+   {
+    height: 1350px;
+    width: 100%;
+    margin: auto;
+    display: flexbox;
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .navbar
+   {
+    height: 80px;
+    width: 83%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+   }
+   .main 
+   {
+       height: 80px;
+       display: flexbox;
+       flex-direction: column;
+   }
+   .submain
+   {
+        margin-left: -640px;
+        margin-top: 60px;
+        margin-bottom: -40px;
+   }
+   .submain2
+   {
+        margin-left: -640px;
+        margin-top: 60px;
+        margin-bottom: -60px;
+        margin-bottom: -40px;
+   }
+   .submain1
+   {
+        margin-left: -660px;
+        margin-top: 60px;
+   }
+   .logo
+   {
+        margin-left: 240px;
+   }
+   .sab
+   {
+       height: 600px;
+       width: 100%;
+       padding-top: 100px;
+       display: flexbox;
+       flex-direction: column;
+       flex-wrap: wrap-reverse;
+   }
+   .img
+   {
+       height:375px;
+       width: 83%;
+       margin-top: 250px;
+       margin-left: 260px;
+   }
+   img
+   {   
+       height:375px;
+       margin-left: 100%;   
+   }
+   .bottle
+   {
+       height: 400px;
+       width: 100%;
+       margin-top: 300px;
+       display: inline-flexbox;
+       flex-wrap: wrap;
+       flex-direction: column;
+   }
+   .content 
+   {  
+       width: 83%;
+       margin-top: 620px;
+       margin-left: 70px;
+       display: inline;
+   }
+   .content h1
+   {
+       font-size: 45px;   
+   }
+   .content p
+   {   
+       margin-top: 10px;
+       font-size: 25px;
+       line-height: 1.2;
+   }
+   .button 
+   {  
+       width: 60%;
+       position: absolute;
+       top: 88%;
+       left: 5%;
+   }
+   .button #big1
+   {
+    height: 45px;
+    width: 150px; 
+    padding: 12px 12px 5px 35px; 
+    margin-left: 70px;
+   }
+   #big1
+   {
+    padding: 10px 25px; 
+   }
+   #big1 a
+   {
+       font-size: 16px;
+   }
+   .button #big2
+   {
+    height: 45px;
+    width: 280px; 
+    /* padding: 12px 4px 5px 5px;  */
+    margin-top: -5px;
+   }
+   #big2
+   {
+    padding: 10px 20px; 
+   }
+   #symbol
+   {
+    height: 120px;
+    width: 100%;
+   }
+   .symbol1
+   {
+    height: 120px;
+    width: 83%;
+    margin: auto;
+   }
+     
+   .symbol2
+   {
+    width: 83%;
+    margin-left: 0px;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+   }
+   .gym1
+   {
+    width: 33%;
+   }
+   .gym1 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym2
+   {
+    width: 33%;
+   }
+   .gym2 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym3
+   {
+    width: 33%;
+   }
+   .gym3 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym4
+   {
+    width: 33%;
+   }
+   .gym4 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym5
+   {
+    width: 33%;
+   }
+   .gym5 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .gym6
+   {
+    width: 33%;
+   }
+   .gym6 img
+   {
+    width: 50%;
+    margin-left: 0px;
+   }
+   .aboutus h1::after
+   {
+    margin-left: -15px;
+   }
+   .aboutus h1::before
+   {
+    margin-left: -50px;
+   }
+   #about1
+   {
+    height: 750px;
+   }
+   .us
+   {
+    height: 750px;
+   }
+   .flex
+   {
+    height:400px ;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .col2
+   {
+    width: 100%;
+   }
+   .col1
+   {
+    width: 100%;
+   }
+   .part
+   {
+    height: 1100px;
+    width: 100%;
+   }
+   .part1
+   {
+    height: 1100px;
+    width: 83%;
+   }
+   .flex1
+   {
+    height: 800px;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .ques
+   {
+    width: 100%;
+   }
+   .image4
+   {
+    width: 100%;
+    margin-left: -650px;
+   }
+   .details li a
+   {
+    margin-right: 50px;
+   }
+   .details1 li a
+   {
+    margin-right: -80px;
+   }
+   .details2 li a
+   {
+    margin-right: -80px;
+   }
+   .skills
+   {
+    height: 1100px;
+    width: 100%;
+   }
+   .skillscon
+   {
+    height: 1100px;
+    width: 83%;
+   }
+   .flex5
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .images5
+   {
+    width: 100%;
+    margin-left: -650px;
+   }
+   .para
+   {
+    width: 100%;
+   }
+   #service
+   {
+    height: 1100px;
+   }
+   .square
+   {
+    height: 1100px;
+   }
+   .all
+   {
+    width: 100%;
+   }
+   .all h2::after
+   {
+    margin-left: -15px;
+   }
+   .all h2::before
+   {
+    margin-left: -50px;
+   }
+   .flex6
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+   }
+   .card1
+   {
+    width: 48%;
+    margin-top: 80px;
+   }
+   .card2
+   {
+    width: 48%;
+    margin-top: 80px;
+   }
+   .card3
+   {
+    width: 48%;
+    margin-top: 60px;
+   }
+   .card4
+   {
+    width: 48%;
+    margin-top: 60px;
+   }
+   .scroll
+   {
+    height: 500px;
+   }
+   .scroll1
+   {
+    height: 500px;
+   }
+   .info
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .sub1
+   {
+    width: 100%;
+    text-align: center;
+   }
+   .sub1 h2
+   {
+    text-align: center;
+   }
+   .sub2
+   {
+    width: 100%;
+    margin-left: 50px;
+   }
+   .portfolio
+   {
+    height: auto;
+   }
+   .portfolio1
+   {
+    height: auto;
+   }
+.portfolio2
+{
+ width: 100%;
+}
+.portfolio2 h2::after
+{
+ margin-left: -20px;
+}
+.portfolio2 h2::before
+{
+ margin-left: -50px;
+}
+.sand
+{
+ display: flex;
+ flex-direction: row;
+ width: 420px;
+ margin: auto;
+ margin-top: 40px;
+}
+.row1
+{
+ 
+ width: 100%;
+ display: flexbox;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+}
+.pic1
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 80px;
+}
+.pic1 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.pic2
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 80px;
+}
+.pic2 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.pic3
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 30px;
+}
+.pic3 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.row2
+{
+ width: 100%;
+ display: flexbox;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+}
+.pic4
+{
+ height: 350px;
+ width: 49%;
+ margin-top: -394px;
+ margin-left: 321px;
+}
+.pic4 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.pic5
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 10px;
+}
+.pic5 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.pic6
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 11px;
+}
+.pic6 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.row3
+{
+ width: 100%;
+ display: flexbox;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+}
+.pic7
+{
+ height: 350px;
+ width: 49%;
+ margin-top: -394px;
+ margin-left: 321px;
+}
+.pic7 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.pic8
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 30px;
+}
+.pic8 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+.pic9
+{
+ height: 350px;
+ width: 49%;
+ margin-top: 30px;
+}
+.pic9 img
+{
+ width: 140%;
+ margin-left: -100px;
+}
+    #team
+   {
+    height: 1550px;
+    margin-top: 500px;
+    width: 100%;
+   }
+   .chex
+   {
+    height: 1550px;
+    width: 83%;
+   }
+   .group
+   {
+    width: 100%;
+   }
+   .group h2::after
+   {
+    margin-left: -15px;
+   }
+   .group h2::before
+   {
+    margin-left: -50px;
+   }
+   .flex8
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .row1p1
+   {
+    width: 100%;
+    margin-top: 135px;
+   }
+   .imgp1
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp1 img
+   {
+    height: 140px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 15px;
+   }
+   .data
+   {
+    margin-left: 140px;
+    width: 80%;
+   }
+   .row2p2
+   {
+    width: 100%;
+    margin-top: 40px;
+   }
+   .imgp2
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp2 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 15px;
+   }
+   .data1
+   {
+    margin-left: 140px;
+    width: 80%;
+   }
+   .flex9
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .row3p3
+   {
+    width: 100%;
+    margin-top: 20px;
+   }
+   .imgp3
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp3 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 15px;
+   }
+   .data2
+   {
+    margin-left: 140px;
+    width: 80%;
+   }
+   .row4p4
+   {
+    width: 100%;
+    margin-top: 40px;
+   }
+   .imgp4
+   {
+    margin-left: -70px;
+    width: 20%;
+   }
+   .imgp4 img
+   {
+    height: 100px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 15px;
+   }
+   .data3
+   {
+    margin-left: 140px;
+    width: 80%;
+   }
+   #pricing
+   {
+    height: 2000px;
+    width: 100%;
+   }
+   .pricecon
+   {
+    height: 2000px;
+    width: 83%;
+   }
+   .tag
+   {
+    width: 100%;
+   }
+   .tag h2::after
+   {
+    margin-left: -15px;
+   }
+   .tag h2::before
+   {
+    margin-left: -40px;
+   }
+   .flex10
+   {
+    height: auto;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .card9
+   {
+    margin-top: 100px;
+   }
+   .card9p1
+   {
+    height: 500px;
+    width: 60%;
+    margin: auto;
+   }
+   .card10
+   {
+    margin-top: 50px;
+   }
+   .card10p1
+   {
+    height: 500px;
+    width: 60%;
+    margin: auto;
+   }
+   .card11
+   {
+    margin-top: 50px;
+   }
+   .card11p1
+   {
+    height: 500px;
+    width: 60%;
+    margin: auto;
+   }
+   #asked
+   {
+    height: 1000px;
+   }
+   .que
+   {
+    height: 1000px;
+   }
+   .frequently
+   {
+    width: 100%;
+   }
+   .frequently h2::after
+   {
+    margin-left: -15px;
+    margin-top: 0px;
+   }
+   .frequently h2::before
+   {
+    margin-top: 0px;
+    margin-left: -50px;
+   }
+   .questiones
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .sauce1
+   {
+    height: 100px;
+    width: 100%;
+    margin-top: 150px;
+   }
+   .sauce2
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .sauce3
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .sauce4
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .sauce5
+   {
+    height: 100px;
+    width: 100%;
+   }
+   #contact
+   {
+    height: 1650px;
+   }
+   .corn
+   {
+    height: 1650px;
+   }
+   .slide
+   {
+    width: 100%;
+   }
+   .slide h3::after
+   {
+    margin-left: -15px;
+   }
+   .slide h3::before
+   {
+    margin-left: -45px;
+   }
+   .flex13
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+   }
+   .dart1
+   {
+    width: 100%;
+    margin-top: 100px;
+   }
+   .charge1
+   {
+    width: 100%;
+   }
+   .dart2
+   {
+    width: 100%;
+    margin-top: 30px;
+   }
+   .charge2
+   {
+    width: 100%;
+   }
+   .button9
+   {
+    margin-left: -90px;
+   }
+   .join
+   {
+    height: 280px;
+   }
+   .our
+   {
+    height: 280px;
+   }
+   .newsletter
+   {
+    height: auto;
+    width: 100%;
+   }
+   .newsletter h3
+   {
+    padding-top: 30px;
+   }
+   #news
+   {
+    margin-left: 0px;
+    height: 50px;
+    width: 80%;
+    padding: 16px;
+   }
+   .button10
+   {
+    margin-left: -200px;
+    margin-top: -25px;
+   }
+   .footer1
+   {
+    height: 600px;
+   }
+   .carter
+   {
+    height: 600px;
+   }
+   .flex14
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+   }
+   .divided1
+   {
+    width: 50%;
+   }
+   .divided2
+   {
+    width: 50%;
+   }
+   .divided3
+   {
+    width: 50%;
+   }
+   .divided4
+   {
+    width: 50%;
+   }
+   footer
+   {
+    height: 100px;
+   }
+   .carter1
+   {
+    height: 100px;
+   }
+   .flex15
+   {
+    height: auto;
+    width: 100%;
+    display: flexbox;
+    flex-direction: column;
+    padding-top: 30px;
+   }
+}
+@media(min-width:991px)
+{   
+    *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    }
+    header
+   {
+    height: 650px;
+    width: 100%;
+    background-color: #37517e;
+   } 
+   .container
+   {
+    height: 650px;
+    width: 100%;
+    margin: auto;
+    display: flexbox; 
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .navbar
+   {
+    height: 80px;
+    width: 83%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+   }
+   .main 
+   {
+       height: 80px;
+       display: flex;
+       flex-direction: row;
+       flex-wrap: nowrap;
+       padding: 0px 30px;
+   }
+   .submain
+   {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px;
+   }
+   .submain2
+   {
+        margin-left: 0px;
+        margin-top:0px;
+        margin-bottom: 0px;
+        margin-bottom: 0px;
+        padding: 0px 0px;
+   }
+   .submain1
+   {
+        margin-left: 0px;
+        margin-top: 0px;
+        padding: 0px 0px;
+   }
+   .logo
+   {
+        margin-left: 0px;
+   }
+   .sab
+   {
+       height: 600px;
+       width: 83%;
+       padding-top: 100px;
+       display: flex;
+       flex-direction: row;
+       flex-wrap: nowrap;
+   }
+   .chesse
+   {
+    width: 49%;
+   }
+   .img
+   {
+       height:400px;
+       width: 100%;
+       margin-top: -60px;
+       margin-left: -78%;
+   }
+   img
+   {   
+       height:375px;
+       width: 100%;
+       margin-left: 100%;   
+   }
+   .bottle
+   {
+       height: 400px;
+       width: 49%;
+       margin-top: 200px;
+       display: inline-flexbox;
+       flex-wrap: nowrap;
+       flex-direction: row;
+   }
+   .content 
+   {  
+       width: 83%;
+       margin-top: 20px;
+       margin-left: 140px;
+       display: inline;
+   }
+   .content h1
+   {
+       font-size: 45px;   
+   }
+   .content p
+   {   
+       margin-top: 10px;
+       font-size: 25px;
+       line-height: 1.2;
+   }
+   .button 
+   {  
+       width: 60%;
+       position: absolute;
+       top: 66%;
+       left: 5%;
+   }
+   .button #big1
+   {
+    height: 45px;
+    width: 150px; 
+    padding: 12px 12px 5px 35px; 
+    margin-left: 70px;
+   }
+   #big1
+   {
+    padding: 10px 25px; 
+   }
+   #big1 a
+   {
+       font-size: 16px;
+   }
+   .button #big2
+   {
+    height: 45px;
+    width: 280px; 
+    /* padding: 12px 4px 5px 5px;  */
+    margin-top: -5px;
+   }
+   #big2
+   {
+    padding: 10px 20px; 
+   }
+   .button:hover #big1
+   {
+    background-color: rgba(33, 146, 172, 0.823);
+   }
+   .button:hover #big2 
+   {
+    background-color: rgba(33, 146, 172, 0.823);
+   }
+   #symbol
+   {
+    height: 120px;
+    width: 100%;
+   }
+   .symbol1
+   {
+    height: 120px;
+    width: 83%;
+    margin: auto;
+   }
+   .symbol2
+   {
+    height: 120px;
+    width: 83%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: auto;
+   }
+   .gym1
+   {
+    height: 30px;
+    width: 16%;
+    margin-left: -60px;
+   }
+   .gym1 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym2
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym2 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym3
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym3 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym4
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym4 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym5
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym5 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym6
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym6 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .aboutus h1::after
+   {
+    margin-left: 0px;
+   }
+   .aboutus h1::before
+   {
+    margin-left: 0px;
+   }
+   #about1
+   {
+    height: 450px;
+   }
+   .us
+   {
+    height: 450px;
+   }
+   .flex
+   {
+    height:400px ;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+   }
+   .col2
+   {
+    width: 50%;
+   }
+   .col1
+   {
+    width: 50%;
+   }
+   .part
+   {
+    height: 600px;
+    width:100%;
+   }
+   .part1
+   {
+    height: 600px;
+    width: 83%;
+   }
+   .flex1
+   {
+    display: flex;
+    flex-direction: row;
+    width: 83%;
+   }
+   .ques
+   {
+    width: 50%;
+   }
+   .image4
+   {
+    width: 49%;
+    
+   }
+   .image4 img
+   {
+    width: 100%;
+    margin-left:900px;
+   }
+   .details li a
+   {
+    margin-right: 50px;
+   }
+   .details1 li a
+   {
+    margin-right: -80px;
+   }
+   .details2 li a
+   {
+    margin-right: -80px;
+   }
+   .skills
+   {
+    height: 570px;
+    width: 100%;
+   }
+   .skillscon
+   {
+    height: 570px;
+    width: 83%;
+    margin: auto;
+   }
+   .flex5
+   {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+   }
+   .images5
+   {
+    width: 49%;
+   }
+   .images5 img
+   {
+    width: 96%;
+    height: 428px;
+    margin-left: 600px;
+   }
+   .para
+   {
+    width: 50%;
+   }
+   #service
+   {
+    height: 600px;
+   }
+   .square
+   {
+    height: 600px;
+   }
+   .all
+   {
+    width: 100%;
+   }
+   .all h2::after
+   {
+    margin-left: 0px;
+   }
+   .all h2::before
+   {
+    margin-left: 0px;
+   }
+   .flex6
+   {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+   }
+   .card1
+   {
+    height: 300px;
+    width: 24%;
+    margin-top: 15px;
+   }
+   .card2
+   {
+    width: 24%;
+    margin-top: 15px;
+   }
+   .card3
+   {
+    width: 24%;
+    margin-top: 15px;
+   }
+   .card4
+   {
+    width: 24%;
+    margin-top: 15px;
+   }
+   .scroll
+   {
+    height: 430px;
+    width: 100%;
+   }
+   .scroll1
+   {
+    height: 430px;
+    width: 83%;
+   }
+   .info
+   {
+    height: 430px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }
+   .sub1
+   {
+    width: 75%;
+    text-align: left;
+   }
+   .sub1 h2
+   {
+    text-align: left;
+   }
+   .sub2
+   {
+    width: 25%;
+    margin-left: 0px;
+   }
+   .button5
+   {
+    margin-left: -90px;
+   }
+   .portfolio
+   {
+    height: 1500px;
+    width: 100%;
+   }
+   .portfolio1
+   {
+    height: 1500px;
+    width: 83%;
+   }
+.portfolio2
+{
+ width: 100%;
+}
+.portfolio2 h2::after
+{
+ margin-left: 0px;
+}
+.portfolio2 h2::before
+{
+ margin-left: 0px;
+}
+.sand
+{
+ display: flex;
+ flex-direction: row;
+ width: 420px;
+ margin-top: 40px;
+}
+.row1
+{
+ height: 350px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+}
+.pic1
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic1 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic2
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic2 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic3
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic3 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.row2
+{ 
+ height: 350px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+
+}
+.pic4
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+.pic4 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic5
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic5 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic6
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic6 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.row3
+{
+ height: 350px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+}
+.pic7
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+.pic7 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic8
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic8 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic9
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic9 img
+{
+ width: 100%;
+ margin-left: 0px;
+} 
+   #team
+   {
+    height: 820px;
+    width: 100%;
+    background-color: #f3f5fa;
+    margin-top: 50px;
+   }
+   .chex
+   {
+    height: 820px;
+    width: 83%;
+   }
+   .group
+   {
+    width: 100%;
+   }
+   .group h2::after
+   {
+    margin-left: 0px;
+   }
+   .group h2::before
+   {
+    margin-left: 0px;
+   }
+   .flex8
+   {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+   }
+   .row1p1
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp1
+   {
+    width: 25%;
+   }
+   .imgp1 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data
+   {
+    margin-left:125px;
+    width: 74%;
+   }
+   .row2p2
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp2
+   {
+    width: 25%;
+   }
+   .imgp2 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data1
+   {
+    margin-left: 125px;
+    width: 74%;
+   }
+   .flex9
+   {
+    height: 260px;
+    display: flex;
+    flex-direction: row;
+   }
+   .row3p3
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp3
+   {
+    width: 25%;
+   }
+   .imgp3 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data2
+   {
+    margin-left: 125px;
+    width: 74%;
+   }
+   .row4p4
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp4
+   {
+    width: 25%;
+   }
+   .imgp4 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data3
+   {
+    margin-left: 125px;
+    width: 74%;
+   }
+   #pricing
+   {
+    height: 1000px;
+    width: 100%;
+   }
+   .pricecon
+   {
+    height: 1000px;
+    width: 83%;
+   }
+   .tag
+   {
+    width: 100%;
+   }
+   .tag h2::after
+   {
+    margin-left: 0px;
+   }
+   .tag h2::before
+   {
+    margin-left: 0px;
+   }
+   .flex10
+   {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }
+   .card9
+   {
+    margin-top: 50px;
+   }
+   .card9p1
+   {
+    height: 610px;
+    width: 85%;
+    margin: auto;
+   }
+   .card10
+   {
+    margin-top: 50px;
+   }
+   .card10p1
+   {
+    height: 610px;
+    width: 85%;
+    margin: auto;
+   }
+   .card11
+   {
+    margin-top: 50px;
+   }
+   .card11p1
+   {
+    height: 610px;
+    width: 85%;
+    margin: auto;
+   }
+   #asked
+   {
+    height: 750px;
+    width: 100%;
+   }
+   .que
+   {
+    height: 750px;
+    width: 83%;
+   }
+   .frequently
+   {
+    width: 100%;
+   }
+   .frequently h2::after
+   {
+    margin-left: 0px;
+    margin-top: 0px;
+   }
+   .frequently h2::before
+   {
+    margin-top: 0px;
+    margin-left: 0px;
+   }
+   .questiones
+   {
+    height: auto;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+   }
+   .sauce1
+   {
+    height: 70px;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .sauce2
+   {
+    height: 70px;
+    width: 100%;
+   }
+   .sauce3
+   {
+    height: 70px;
+    width: 100%;
+   }
+   .sauce4
+   {
+    height: 70px;
+    width: 100%;
+   }
+   .sauce5
+   {
+    height: 70px;
+    width: 100%;
+   }
+   #contact
+   {
+    height: 930px;
+   }
+   .corn
+   {
+    height: 930px;
+   }
+   .slide
+   {
+    width: 100%;
+   }
+   .slide h3::after
+   {
+    margin-left: 0px;
+   }
+   .slide h3::before
+   {
+    margin-left: 0px;
+   }
+   .flex13
+   {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+   }
+   .dart1
+   {
+    width: 41%;
+    margin-top: 20px;
+   }
+   .charge1
+   {
+    width: 100%;
+   }
+   .dart2
+   {
+    width: 58%;
+    margin-top: 20px;
+   }
+   .charge2
+   {
+    width: 100%;
+   }
+   .button9
+   {
+    margin-left: -90px;
+   }
+   .join
+   {
+    height: 280px;
+    width: 100%;
+   }
+   .our
+   {
+    height: 280px;
+    width: 83%;
+   }
+   .newsletter
+   {
+    height: auto;
+    width: 100%;
+   }
+   .newsletter h3
+   {
+    padding-top: 30px;
+   }
+   #news
+   {
+    margin-left: 180px;
+    height: 40px;
+    width: 50%;
+    padding: 15px;
+   }
+   .button10
+   {
+    margin-left: -100px;
+    margin-top: -28px;
+   }
+   .footer1
+   {
+    height: 350px;
+    width: 100%;
+   }
+   .carter
+   {
+    height: 350px;
+    width: 83%;
+   }
+   .flex14
+   {
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+   }
+   .divided1
+   {
+    width: 24%;
+   }
+   .divided2
+   {
+    width: 24%;
+   }
+   .divided3
+   {
+    width: 24%;
+   }
+   .divided4
+   {
+    width: 24%;
+   }
+   footer
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .carter1
+   {
+    height: 100px;
+    width: 83%;
+   }
+   .flex15
+   {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+   }
+   
+}
+@media(min-width:1266px)
+{   
+    *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    }
+    header
+   {
+    height: 650px;
+    width: 100%;
+    background-color: #37517e;
+   } 
+   .container
+   {
+    height: 650px;
+    width: 100%;
+    margin: auto;
+    display: flexbox; 
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+   .navbar
+   {
+    height: 80px;
+    width: 83%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+   }
+   .main 
+   {
+       height: 80px;
+       display: flex;
+       flex-direction: row;
+       flex-wrap: nowrap;
+       padding: 0px 30px;
+   }
+   .submain
+   {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px;
+   }
+   .submain2
+   {
+        margin-left: 0px;
+        margin-top:0px;
+        margin-bottom: 0px;
+        margin-bottom: 0px;
+        padding: 0px 0px;
+   }
+   .submain1
+   {
+        margin-left: 0px;
+        margin-top: 0px;
+        padding: 0px 0px;
+   }
+   .logo
+   {
+        margin-left: 0px;
+   }
+   .sab
+   {
+       height: 600px;
+       width: 83%;
+       padding-top: 100px;
+       display: flex;
+       flex-direction: row;
+       flex-wrap: nowrap;
+   }
+   .chesse
+   {
+    width: 49%;
+   }
+   .img
+   {
+       height:400px;
+       width: 100%;
+       margin-top: -60px;
+       margin-left: -78%;
+   }
+   img
+   {   
+       height:375px;
+       width: 100%;
+       margin-left: 100%;   
+   }
+   .bottle
+   {
+       height: 400px;
+       width: 49%;
+       margin-top: 200px;
+       display: inline-flexbox;
+       flex-wrap: nowrap;
+       flex-direction: row;
+   }
+   .content 
+   {  
+       width: 83%;
+       margin-top: 20px;
+       margin-left: 140px;
+       display: inline;
+   }
+   .content h1
+   {
+       font-size: 45px;   
+   }
+   .content p
+   {   
+       margin-top: 10px;
+       font-size: 25px;
+       line-height: 1.2;
+   }
+   .button 
+   {  
+       width: 60%;
+       position: absolute;
+       top: 66%;
+       left: 5%;
+   }
+   .button #big1
+   {
+    height: 45px;
+    width: 150px; 
+    padding: 12px 12px 5px 35px; 
+    margin-left: 70px;
+   }
+   #big1
+   {
+    padding: 10px 25px; 
+   }
+   #big1 a
+   {
+       font-size: 16px;
+   }
+   .button #big2
+   {
+    height: 45px;
+    width: 280px; 
+    /* padding: 12px 4px 5px 5px;  */
+    margin-top: -5px;
+   }
+   #big2
+   {
+    padding: 10px 20px; 
+   }
+   
+   #symbol
+   {
+    height: 120px;
+    width: 100%;
+   }
+   .symbol1
+   {
+    height: 120px;
+    width: 83%;
+    margin: auto;
+   }
+   .symbol2
+   {
+    height: 120px;
+    width: 83%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: auto;
+   }
+   .gym1
+   {
+    height: 30px;
+    width: 16%;
+    margin-left: -60px;
+   }
+   .gym1 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym2
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym2 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym3
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym3 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym4
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym4 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym5
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym5 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .gym6
+   {
+    height: 30px;
+    width: 16%;
+   }
+   .gym6 img
+   {
+    height: 30px;
+    width: 50%;
+    margin-left:0px;
+   }
+   .aboutus h1::after
+   {
+    margin-left: 0px;
+   }
+   .aboutus h1::before
+   {
+    margin-left: 0px;
+   }
+   #about1
+   {
+    height: 450px;
+   }
+   .us
+   {
+    height: 450px;
+   }
+   .flex
+   {
+    height:400px ;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+   }
+   .col2
+   {
+    width: 50%;
+   }
+   .col1
+   {
+    width: 50%;
+   }
+   .part
+   {
+    height: 600px;
+    width:100%;
+   }
+   .part1
+   {
+    height: 600px;
+    width: 83%;
+   }
+   .flex1
+   {
+    display: flex;
+    flex-direction: row;
+    width: 83%;
+   }
+   .ques
+   {
+    width: 50%;
+   }
+   .image4
+   {
+    width: 49%;
+    
+   }
+   .image4 img
+   {
+    width: 100%;
+    margin-left:900px;
+   }
+   .details li a
+   {
+    margin-right: 50px;
+   }
+   .details1 li a
+   {
+    margin-right: -80px;
+   }
+   .details2 li a
+   {
+    margin-right: -80px;
+   }
+   .skills
+   {
+    height: 570px;
+    width: 100%;
+   }
+   .skillscon
+   {
+    height: 570px;
+    width: 83%;
+    margin: auto;
+   }
+   .flex5
+   {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+   }
+   .images5
+   {
+    width: 49%;
+   }
+   .images5 img
+   {
+    width: 96%;
+    height: 428px;
+    margin-left: 600px;
+   }
+   .para
+   {
+    width: 50%;
+   }
+   #service
+   {
+    height: 600px;
+   }
+   .square
+   {
+    height: 600px;
+   }
+   .all
+   {
+    width: 100%;
+   }
+   .all h2::after
+   {
+    margin-left: 0px;
+   }
+   .all h2::before
+   {
+    margin-left: 0px;
+   }
+   .flex6
+   {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+   }
+   .card1
+   {
+    height: 300px;
+    width: 24%;
+    margin-top: 15px;
+   }
+   .card2
+   {
+    width: 24%;
+    margin-top: 15px;
+   }
+   .card3
+   {
+    width: 24%;
+    margin-top: 15px;
+   }
+   .card4
+   {
+    width: 24%;
+    margin-top: 15px;
+   }
+   .scroll
+   {
+    height: 430px;
+    width: 100%;
+   }
+   .scroll1
+   {
+    height: 430px;
+    width: 83%;
+   }
+   .info
+   {
+    height: 430px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }
+   .sub1
+   {
+    width: 75%;
+    text-align: left;
+   }
+   .sub1 h2
+   {
+    text-align: left;
+   }
+   .sub2
+   {
+    width: 25%;
+    margin-left: 0px;
+   }
+   .button5
+   {
+    margin-left: -90px;
+   }
+   .portfolio
+   {
+    height: 1500px;
+    width: 100%;
+   }
+   .portfolio1
+   {
+    height: 1500px;
+    width: 83%;
+   }
+.portfolio2
+{
+ width: 100%;
+}
+.portfolio2 h2::after
+{
+ margin-left: 0px;
+}
+.portfolio2 h2::before
+{
+ margin-left: 0px;
+}
+.sand
+{
+ display: flex;
+ flex-direction: row;
+ width: 420px;
+ margin-top: 40px;
+}
+.row1
+{
+ height: 350px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+}
+.pic1
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic1 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic2
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic2 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic3
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic3 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.row2
+{ 
+ height: 350px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+
+}
+.pic4
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+.pic4 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic5
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic5 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic6
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic6 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.row3
+{
+ height: 350px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+}
+.pic7
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+ margin-left: 0px;
+}
+.pic7 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic8
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic8 img
+{
+ width: 100%;
+ margin-left: 0px;
+}
+.pic9
+{
+ height: 350px;
+ width: 32%;
+ margin-top: 0px;
+}
+.pic9 img
+{
+ width: 100%;
+ margin-left: 0px;
+} 
+   #team
+   {
+    height: 820px;
+    width: 100%;
+    background-color: #f3f5fa;
+    margin-top: 50px;
+   }
+   .chex
+   {
+    height: 820px;
+    width: 83%;
+   }
+   .group
+   {
+    width: 100%;
+   }
+   .group h2::after
+   {
+    margin-left: 0px;
+   }
+   .group h2::before
+   {
+    margin-left: 0px;
+   }
+   .flex8
+   {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+   }
+   .row1p1
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp1
+   {
+    width: 25%;
+   }
+   .imgp1 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data
+   {
+    margin-left:125px;
+    width: 74%;
+   }
+   .row2p2
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp2
+   {
+    width: 25%;
+   }
+   .imgp2 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data1
+   {
+    margin-left: 125px;
+    width: 74%;
+   }
+   .flex9
+   {
+    height: 260px;
+    display: flex;
+    flex-direction: row;
+   }
+   .row3p3
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp3
+   {
+    width: 25%;
+   }
+   .imgp3 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data2
+   {
+    margin-left: 125px;
+    width: 74%;
+   }
+   .row4p4
+   {
+    width: 49%;
+    margin-top: 20px;
+   }
+   .imgp4
+   {
+    width: 25%;
+   }
+   .imgp4 img
+   {
+    height: 160px;
+    width: 100%;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+   }
+   .data3
+   {
+    margin-left: 125px;
+    width: 74%;
+   }
+   #pricing
+   {
+    height: 1000px;
+    width: 100%;
+   }
+   .pricecon
+   {
+    height: 1000px;
+    width: 83%;
+   }
+   .tag
+   {
+    width: 100%;
+   }
+   .tag h2::after
+   {
+    margin-left: 0px;
+   }
+   .tag h2::before
+   {
+    margin-left: 0px;
+   }
+   .flex10
+   {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }
+   .card9
+   {
+    margin-top: 50px;
+   }
+   .card9p1
+   {
+    height: 610px;
+    width: 85%;
+    margin: auto;
+   }
+   .card10
+   {
+    margin-top: 50px;
+   }
+   .card10p1
+   {
+    height: 610px;
+    width: 85%;
+    margin: auto;
+   }
+   .card11
+   {
+    margin-top: 50px;
+   }
+   .card11p1
+   {
+    height: 610px;
+    width: 85%;
+    margin: auto;
+   }
+   #asked
+   {
+    height: 750px;
+    width: 100%;
+   }
+   .que
+   {
+    height: 750px;
+    width: 83%;
+   }
+   .frequently
+   {
+    width: 100%;
+   }
+   .frequently h2::after
+   {
+    margin-left: 0px;
+    margin-top: 0px;
+   }
+   .frequently h2::before
+   {
+    margin-top: 0px;
+    margin-left: 0px;
+   }
+   .questiones
+   {
+    height: auto;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+   }
+   .sauce1
+   {
+    height: 70px;
+    width: 100%;
+    margin-top: 30px;
+   }
+   .sauce2
+   {
+    height: 70px;
+    width: 100%;
+   }
+   .sauce3
+   {
+    height: 70px;
+    width: 100%;
+   }
+   .sauce4
+   {
+    height: 70px;
+    width: 100%;
+   }
+   .sauce5
+   {
+    height: 70px;
+    width: 100%;
+   }
+   #contact
+   {
+    height: 930px;
+   }
+   .corn
+   {
+    height: 930px;
+   }
+   .slide
+   {
+    width: 100%;
+   }
+   .slide h3::after
+   {
+    margin-left: 0px;
+   }
+   .slide h3::before
+   {
+    margin-left: 0px;
+   }
+   .flex13
+   {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+   }
+   .dart1
+   {
+    width: 41%;
+    margin-top: 20px;
+   }
+   .charge1
+   {
+    width: 100%;
+   }
+   .dart2
+   {
+    width: 58%;
+    margin-top: 20px;
+   }
+   .charge2
+   {
+    width: 100%;
+   }
+   .button9
+   {
+    margin-left: -90px;
+   }
+   .join
+   {
+    height: 280px;
+    width: 100%;
+   }
+   .our
+   {
+    height: 280px;
+    width: 83%;
+   }
+   .newsletter
+   {
+    height: auto;
+    width: 100%;
+   }
+   .newsletter h3
+   {
+    padding-top: 30px;
+   }
+   #news
+   {
+    margin-left: 280px;
+    height: 40px;
+    width: 45%;
+    padding: 15px;
+   }
+   .button10
+   {
+    margin-left: 140px;
+    margin-top: -28px;
+   }
+   .footer1
+   {
+    height: 350px;
+    width: 100%;
+   }
+   .carter
+   {
+    height: 350px;
+    width: 83%;
+   }
+   .flex14
+   {
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+   }
+   .divided1
+   {
+    width: 24%;
+   }
+   .divided2
+   {
+    width: 24%;
+   }
+   .divided3
+   {
+    width: 24%;
+   }
+   .divided4
+   {
+    width: 24%;
+   }
+   footer
+   {
+    height: 100px;
+    width: 100%;
+   }
+   .carter1
+   {
+    height: 100px;
+    width: 83%;
+   }
+   .flex15
+   {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+   }
+   
+}
